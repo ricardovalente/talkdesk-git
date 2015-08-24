@@ -1,3 +1,13 @@
+
+Solution for Integrations Page Redesign by Ricardo Valente
+
+
+You can see the final version in:
+
+http://ricardovalente.pt/talkdesk/?page_id=9#
+
+
+
 Development from Wordpress
 
 I used the template provided in the briefing, "Green Garden" and I chose to create a child theme, from this, because this way I can make changes to my template, which will override the parent one, but any change that is made to the parent template, will not affect mine. I duplicated the pages "header.php" and "footer.php" so that new changes can be replicated to all site pages.
