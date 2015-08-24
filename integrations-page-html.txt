@@ -1,0 +1,352 @@
+<div id="main-integrations">
+   <ul id="main-categories" class="section">
+      <li id="category-all" class="category">
+         <h4>All</h4>
+      </li>
+      <li id="category-chat" class="category">
+         <h4>Chat</h4>
+      </li>
+      <li id="category-crm" class="category">
+         <h4>CRM</h4>
+      </li>
+      <li id="category-commerce" class="category">
+         <h4>E-Commerce</h4>
+      </li>
+      <li id="category-helpdesk" class="category">
+         <h4>Helpdesk</h4>
+      </li>
+      <li id="category-other" class="category">
+         <h4>Other</h4>
+      </li>
+   </ul>
+   <div id="main-thumbs" class="section">
+      <ul class"section">
+         <li id="int-01" class="int-thumb all commerce">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/big-commerce.jpg" alt="Big Commerce" width="100" />
+               <span>Big Commerce</span>
+            </a>
+         </li>
+         <li id="int-02" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/contactually.jpg" alt="Contactually" width="100"/>
+               <span>Contactually</span>
+            </a>
+         </li>
+         <li id="int-03" class="int-thumb all other">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/cvs.png" alt="CVS Importer" width="125" height="39" />
+               <span>CVS Importer</span>
+            </a>
+         </li>
+         <li id="int-04" class="int-thumb all helpdesk">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/desk.jpg" alt="Sales Force Desk" width="100"/>
+               <span>Sales Force Desk</span>
+            </a>
+         </li>
+         <li id="int-05" class="int-thumb all other">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/email.png" alt="Email Notifier" width="125" />
+               <span>Email Notifier</span>
+            </a>
+         </li>
+         <li id="int-06" class="int-thumb all helpdesk">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/freshdesk.jpg" alt="Freshdesk" width="100" />
+               <span>Freshdesk</span>
+            </a>
+         </li>
+         <li id="int-07" class="int-thumb all other">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/google.jpg" alt="Google Contacts" width="175" />
+               <span>Google Contacts</span>
+            </a>
+         </li>
+         <li id="int-08" class="int-thumb all helpdesk">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/groove.png" alt="Groove" width="175"/>
+               <span>Groove</span>
+            </a>
+         </li>
+         <li id="int-09" class="int-thumb all helpdesk">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/help-scout.jpg" alt="Help Scout" width="100" />
+               <span>Help Scout</span>
+            </a>
+         </li>
+         <li id="int-10" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/highrise.png" alt="High Rise" width="100" />
+               <span>High Rise</span>
+            </a>
+         </li>
+         <li id="int-11" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/infusion.jpg" alt="Infusion Soft" width="100" />
+               <span>Infusion Soft</span>
+            </a>
+         </li>
+         <li id="int-12" class="int-thumb all helpdesk">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/intercom.jpg" alt="Intercom" width="100" />
+               <span>Intercom</span>
+            </a>
+         </li>
+         <li id="int-13" class="int-thumb all chat">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/live-chat.jpg" alt="Live Chat" width="150" />
+               <span>Live Chat</span>
+            </a>
+         </li>
+         <li id="int-14" class="int-thumb all commerce">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/magento.jpg" alt="Magento" width="100" />
+               <span>Magento</span>
+            </a>
+         </li>
+         <li id="int-15" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/nimble.jpg" alt="Nimble" width="100" />
+               <span>Nimble</span>
+            </a>
+         </li>
+         <li id="int-16" class="int-thumb all chat">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/olark.jpg" alt="Olark" width="150" />
+               <span>Olark</span>
+            </a>
+         </li>
+         <li id="int-17" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/one-page.jpg" alt="One Page CRM" width="100" />
+               <span>One Page CRM</span>
+            </a>
+         </li>
+         <li id="int-18" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/pipe-drive.jpg" alt="Pipedrive" width="200" />
+               <span>Pipedrive</span>
+            </a>
+         </li>
+         <li id="int-19" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/radius.jpg" alt="Radius" width="100" />
+               <span>Radius</span>
+            </a>
+         </li>
+         <li id="int-20" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/relate.jpg" alt="Relate IQ" width="100" />
+               <span>Relate IQ</span>
+            </a>
+         </li>
+         <li id="int-21" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/salesforce.jpg" alt="Salesforce" width="150" />
+               <span>Salesforce</span>
+            </a>
+         </li>
+         <li id="int-22" class="int-thumb all commerce">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/shopify.jpg" alt="Shopify" width="100" />
+               <span>Shopify</span>
+            </a>
+         </li>
+         <li id="int-23" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/sugar.jpg" alt="Sugar CRM" width="100" />
+               <span>Sugar CRM</span>
+            </a>
+         </li>
+         <li id="int-24" class="int-thumb all chat">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/userlike.jpg" alt="Userlike" width="200" />
+               <span>Userlike</span>
+            </a>
+         </li>
+         <li id="int-25" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/ms-dynamics.jpg" alt="Microsoft Dynamics" width="100" />
+               <span>Microsoft Dynamics</span>
+            </a>
+         </li>
+         <li id="int-26" class="int-thumb all helpdesk">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/uservoice.jpg" alt="User Voice" width="100" />
+               <span>User Voice</span>
+            </a>
+         </li>
+         <li id="int-27" class="int-thumb all helpdesk">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/zendesk.jpg" alt="Zendesk" width="100" />
+               <span>Zendesk</span>
+            </a>
+         </li>
+         <li id="int-28" class="int-thumb all crm">
+            <a class="frame shadow-s" href="#">
+               <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/zoho.jpg" alt="Zoho" width="200" />
+               <span>Zoho</span>
+            </a>
+         </li>
+      </ul>
+   </div>
+   <div class="section">
+      <div id="indicator">
+         <h6 id="indicator">Scroll right to see more</h6>
+         <ul id="arrows">
+            <li class="arrow01 arrow"></li>
+            <li class="arrow02 arrow"></li>
+            <li class="arrow03 arrow"></li>
+         </ul>
+      </div>
+   </div>
+   <div id="main-advantages" class="section">
+      <ul>
+         <li class="advantage">
+            <h4>Unified workspace</h4>
+            <h6>Eliminate the redundant action of opening and searching through multiple systems with the customer on the phone.     </h6>
+         </li>
+         <li class="advantage">
+            <h4>Intuitive interface</h4>
+            <h6>Agents can access information from your CRM, helpdesk and back office applications from our intuitive interface.</h6>
+         </li>
+         <li class="advantage">
+            <h4>Accurate information</h4>
+            <h6>Data is automatically updated in external systems so agents will always have accurate information.</h6>
+         </li>
+         <li class="advantage">
+            <h4>Increased productivity</h4>
+            <h6>With seamless integrations, optimize your company’s workflow and your team will increase their productivity.</h6>
+         </li>
+      </ul>
+   </div>
+</div>
+<div class="section">
+   <a class="call-to-action" href="#" target="_blank">Ask for a Free Demo</a>
+</div>
+<div id="main-features" class="section">
+   <div class="section-banner section">
+      <h2>Automatically sync previous interactions and contact information</h2>
+      <h3>With readily available, relevant information, Talkdesk will increase your company’s productivity, eliminate omission of information and improve the customer experience.</h3>
+   </div>
+   <div id="features" class="section">
+      <ul>
+         <li class="feature shadow-s">
+            <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/Unknown.png" alt="BigCommerce" width="400" height="180" />
+            <h4>Identify the caller in real time</h4>
+            <h6>Pleasantly surprise your customers by knowing their name even before answering the phone. Talkdesk compiles information from multiple sources so your customer information is always updated.</h6>
+         </li>
+         <li class="feature shadow-s">
+            <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/customer_profile_information.png" alt="BigCommerce" width="400" height="180" />
+            <h4>IReview previous interactions</h4>
+            <h6>All previous interactions, including cases, tickets, events and chats, are available as the phone rings. Your agents will always know the entire history of the caller, ensuring that the customer experience is more personalized.</h6>
+         </li>
+         <li class="feature shadow-s">
+            <img class="alignnone size-full wp-image-60" src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/activity_from_external_integrations.png" alt="BigCommerce" width="400" height="180" />
+            <h4>Access complete profile information</h4>
+            <h6>Information is continuously extracted from enabled integrations, so agents always have accurate, real-time information about the customers without having to manually insert information in multiple places.</h6>
+         </li>
+      </ul>
+   </div>
+   <div class="section-banner section">
+      <h2>Automatically push Talkdesk data into your integrations</h2>
+         <h3>Talkdesk automatically pushes information into all integrated systems enabling teams to access comprehensive, accurate information without having to re-enter redundant data.</h3>
+   </div>
+   <div class="section">
+      <a class="call-to-action" href="#" target="_blank">Ask for a Free Demo</a>
+   </div>
+   <div id="main-panel" class="section shadow-m">
+      <ul id="panel">
+         <li id="panel-item-01" class="panel-item">
+            <ul id="panel01" class="panel">
+               <li class="salesforce">
+                  <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/new-logo-inside.svg" alt="" />
+                  <h6>A contact is created</h6>
+               </li>
+               <li class="salesforce">
+                  <ul id="arrows">
+                     <li id="salesforce-arrow01" class="arrow01 arrow"></li>
+                     <li id="salesforce-arrow02" class="arrow02 arrow"></li>
+                     <li id="salesforce-arrow03" class="arrow03 arrow"></li>
+                  </ul>
+                  <h6>Send Talkdesk contacts to Salesforce</h6>
+               </li>
+               <li class="salesforce">
+                  <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/salesforce_.png" alt="" width="150" />
+                  <h6>Create a contact</h6>
+               </li>
+            </ul>
+         </li>
+         <li id="panel-item-02" class="panel-item">
+            <ul id="panel02" class="panel">
+               <li class="salesforce">
+                  <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/new-logo-inside.svg" alt="" />
+                  <h6>A contact is created</h6>
+               </li>
+               <li class="salesforce">
+                  <ul id="arrows">
+                     <li id="salesforce-arrow01" class="arrow01 arrow"></li>
+                     <li id="salesforce-arrow02" class="arrow02 arrow"></li>
+                     <li id="salesforce-arrow03" class="arrow03 arrow"></li>
+                  </ul>
+                  <h6>Send Talkdesk notes to Highrise</h6>
+               </li>
+               <li class="salesforce">
+                  <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/highrise.png" alt="" />
+                  <h6>Create a note</h6>
+               </li>
+            </ul>
+         </li>
+         <li id="panel-item-03" class="panel-item">
+            <ul id="panel03" class="panel">
+               <li class="salesforce">
+                  <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/new-logo-inside.svg" alt="" />
+                  <h6>A contact is created</h6>
+               </li>
+               <li class="salesforce">
+                  <ul id="arrows">
+                     <li id="salesforce-arrow01" class="arrow01 arrow"></li>
+                     <li id="salesforce-arrow02" class="arrow02 arrow"></li>
+                     <li id="salesforce-arrow03" class="arrow03 arrow"></li>
+                  </ul>
+                  <h6>Turn Talkdesk voicemails into Zendesk tickets</h6>
+               </li>
+               <li class="salesforce">
+                  <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/zendesk_.png" alt="" />
+                  <h6>Create a ticket</h6>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   <div id="prev"></div>
+   <div id="next"></div>
+</div>
+<div id="story" class="section">
+   <ul id="main-steps">
+      <li class="step shadow-s">
+         <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/step01.jpg" alt="" />
+         <h4>Send information to external systems</h4>
+         <h6>Talkdesk automatically updates information about your customers and their interactions with your company into the systems you use, eliminating the need for your agents to manually input redundant information.</h6>
+      </li>
+      <li class="step shadow-s">
+         <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/step02.jpg" alt="" />
+         <h4>Set the rules and customize information</h4>
+         <h6>Define automatic actions to run in third-party systems whenever a specific event happens in Talkdesk. Choose from the available triggers and save the information attached to them in the appropriate system.</h6>
+      </li>
+      <li class="step shadow-s">
+         <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/step03.jpg" alt="" />
+         <h4>Real time, continuous updates</h4>
+         <h6>Talkdesk continuously synchronizes with your systems so that information about the caller is always up-to-date. Each interaction is automatically updated in all systems, in real time.</h6>
+      </li>
+      <li class="step shadow-s">
+         <img src="http://ricardovalente.pt/talkdesk/wp-content/uploads/2015/08/step04.jpg" alt="" />
+         <h4>Receive notifications by email</h4>
+         <h6>Automatically receive an email when a call is missed, voicemail is received, an agent logs into Talkdesk, a new contact is created, a note is created, etc.</h6>
+      </li>
+   </ul>
+</div>
+<div class="section">
+  <h3>WORLD’S LEADING BROWSER-BASED CALL CENTER SOFTWARE</h3>
+  <a class="call-to-action" href="#" target="_blank">Ask for a Free Demo</a>
+</div>
