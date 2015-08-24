@@ -1,0 +1,38 @@
+Development from Wordpress
+
+I used the template provided in the briefing, "Green Garden" and I chose to create a child theme, from this, because this way I can make changes to my template, which will override the parent one, but any change that is made to the parent template, will not affect mine. I duplicated the pages "header.php" and "footer.php" so that new changes can be replicated to all site pages.
+
+Starting with the front-end structure, within the new template folder I created a specific folder for scripts, css, fonts and images. Despite the wordpress already have a repository to put the media files, I chose to put all the images that are part of the fixed layout structure in my folder and let the repository for the media content loaded through the backoffice.
+
+Across the page "functions.php" created for the new template, I implemented a new stylesheet "style.css" which is based on the original one "editor-style.css" and an external javascript script. Apart from that yet I implemented the second menu that can be configured via backoffice.
+
+In the "header.php" I wrote all the header and menus html code and establish the connection to the javascript library, "jQuery UI", to implement easing movements to the javascript animations.
+
+In the "footer.php" I wrote all the html for the footer.
+
+All html structure related to the "integrations.php" was programmed in the text editor of backoffice because this way it is possible for any user, even without html knowledge, be able to make its management, changing text and images. Therefore I have this file "integrations-page-html.txt", where you can see all the html code that I wrote to build this page's structure.
+
+In stylesheet "style.css" are all properties of visual appearance and behavior of the mouse over state, ": hover", of the modified elements as well as the measurement intervals screen in length, set to attribute the page, a responsive behavior. These intervals were based on higher membership devices by users, and of 0px to 320px matches the iPhone 5 and earlier, from 321 to 540px matches the iPhone 6 and Galaxy's, from 541px to 768px corresponds to tablets, in portrait format, the 769px to 1024px match the iPad tablet, landscape format and up to 1025px 1199px matches notebooks. From 1200px up, the page has a division "div" with the exact length of 1200px involving the whole page content structure.
+
+The external script "talkdesk.js" is all the javascript code responsible for the behavior and interactions of some elements. The fixing of the menu at the top of the page, the appearance of the menu options when we click on the burger menu in smartphone screens, and its transformation into "x". The translocation of the Gallery panels, when we click on the "next" and "prev" buttons and its spontaneous animation, if there is no user interaction.
+
+
+
+
+Redesign
+
+First of all, I should mention that all visual and interactive changes were designed and developed based on Talkdesk's graphic line, its site structure and what I think as Web Designer and Front End Developer, that would be the changing areas or elements, in order to improve the communication with the user and the user experience. In my proposal, the entire page is responsive and perfectly suited to be displayed on any screen size. I also include animations and transitions in the behavior of buttons, links and other elements for a better application response to user actions and intensify its focus on content.
+
+To the existing header was added a new section at the top, that includes the sub-menu. I chose to set the main menu at the top of the page, because while we scroll we have quick access to the main site content at any time, without having to do scroll to the top of the page. The top of the menu options, as they are less relevant only appear at the top of the page.
+
+I inserted a large section under the header, with a background image, the title and call to action, like a cover page for the user to quickly realize what is its content. On screen experiences, graphic content takes all the attention over the written content, that is why is so important to draw the user's attention to what we want to communicate, media content should be impactful and objectives with brief texts.
+
+In the section of integration platforms, instead of showing all logos involved, I limited the height of this section to be fully visible on the screen, where a horizontal scroll allows us to see the other hidden logos. This solution allows the user to quickly access the next content without having to scroll unnecessarily.
+
+Regarding section of the features, I chose to give greater prominence to the image and title, because is where users look in first place. Their arrangement allows the user to focus in one at the time.
+
+In the animated gallery, I developed a carousel animation system, that becomes a autoplay slideshow if the user does not interact with it. Thus their interaction and presence on page gives it a most dynamic and pleasant user experience.
+
+In the next section, I leave the four elements in the same place, but with larger images.
+
+Sections of subtitles, call to action and footer, maintained the same structure, because I think they fulfill their role within the page.
